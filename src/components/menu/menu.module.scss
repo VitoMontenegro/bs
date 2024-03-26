@@ -1,0 +1,10 @@
+.app_header {
+    nav{
+        display: flex;
+        gap: 20px;
+        a {
+            text-decoration: none;
+            color: blue;
+        }
+    }
+}
